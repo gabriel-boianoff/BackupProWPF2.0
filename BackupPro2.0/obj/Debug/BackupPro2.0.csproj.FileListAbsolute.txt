@@ -1,0 +1,11 @@
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro2.0\bin\Debug\BackupPro2.0.exe.config
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro2.0\bin\Debug\BackupPro2.0.exe
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro2.0\bin\Debug\BackupPro2.0.pdb
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro2.0\bin\Debug\DotNetZip.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro2.0\bin\Debug\DotNetZip.xml
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro2.0\obj\Debug\BackupPro2.0.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro2.0\obj\Debug\BackupPro2._0.frmHome.resources
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro2.0\obj\Debug\BackupPro2._0.Properties.Resources.resources
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro2.0\obj\Debug\BackupPro2.0.csproj.GenerateResource.Cache
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro2.0\obj\Debug\BackupPro2.0.exe
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro2.0\obj\Debug\BackupPro2.0.pdb

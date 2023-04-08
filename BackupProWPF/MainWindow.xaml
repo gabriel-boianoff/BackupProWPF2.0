@@ -1,0 +1,188 @@
+﻿<Window x:Name="wdwBackupPro" x:Class="BackupProWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BackupProWPF"
+        xmlns:controls="clr-namespace:BackupProWPF"
+        xmlns:tb="http://www.hardcodet.net/taskbar"
+        mc:Ignorable="d"
+        Title="Backup Pro" Height="388.284" Width="515" WindowStyle="None" WindowStartupLocation="CenterScreen" ResizeMode="NoResize" Loaded="wdwBackupPro_Loaded" BorderBrush="#135995">
+    <Window.Background>
+        <ImageBrush ImageSource="Resources\Background.png"/>
+    </Window.Background>
+    <Grid>
+        <Rectangle Fill="#135995" Height="27" VerticalAlignment="Top" MouseLeftButtonDown="Rectangle_MouseLeftButtonDown"/>
+        <TextBlock Text="Backup Pro" FontFamily="Segoe UI Semibold" Margin="10,5,437,361" Foreground="White"/>
+        <Image x:Name="imgFechar" HorizontalAlignment="Left" Height="27" VerticalAlignment="Top" Width="33" Margin="482,0,0,0" Source="Resources/Fechar.png" MouseLeftButtonDown="imgFechar_MouseLeftButtonDown"/>
+        <Image x:Name="imgMinimizar" HorizontalAlignment="Left" Height="27" VerticalAlignment="Top" Width="27" Margin="450,0,0,0" Source="Resources/Minimizar.png" MouseLeftButtonDown="imgMinimizar_MouseLeftButtonDown"/>
+        <TabControl x:Name="tabControl" HorizontalAlignment="Left" Height="363" VerticalAlignment="Top" Width="515" Margin="0,25,0,0" Background="Transparent" BorderBrush="#135995">
+            <TabItem x:Name="tabHome" Margin="-2,0,-64,0" BorderBrush="#135995">
+                <TabItem.Background>
+                    <LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+                        <GradientStop Color="#FFFCFDFF" Offset="1"/>
+                        <GradientStop Color="#FF3E88C5"/>
+                    </LinearGradientBrush>
+                </TabItem.Background>
+                <TabItem.Header>
+                    <StackPanel Orientation="Vertical">
+                        <Image Height="50" Source="Resources\Home.png" Visibility="Visible" />
+                        <TextBlock Text="Home" FontFamily="Segoe UI Semibold" Margin="0,-5,0,0" HorizontalAlignment="Center" Foreground="Black"/>
+                    </StackPanel>
+                </TabItem.Header>
+                <Grid x:Name="grdHome" Loaded="grdHome_Loaded">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="33*"/>
+                        <RowDefinition Height="5*"/>
+                        <RowDefinition Height="20*"/>
+                    </Grid.RowDefinitions>
+                    <Button x:Name="btnHome" Content="Configurar Backup Agora" Margin="143,5,138,48" Background="#FF106EBE" BorderBrush="#FF106EBE" FontFamily="Segoe UI Semibold" FontSize="18" Foreground="White" Click="btnHome_Click" Grid.Row="2" />
+                    <StackPanel x:Name="stkHome" Orientation="Vertical" Margin="90,0" Grid.RowSpan="2">
+                        <Image x:Name="imgStatus" Height="150" Source="Resources\Falha.png" Visibility="Visible" RenderTransformOrigin="0.5,0.91" />
+                        <TextBlock x:Name="lblStatus" Text="Ops! Parece que o Backup não esta configurado" HorizontalAlignment="Center" FontFamily="Segoe UI Semibold" Margin="-41,-5,-42,0" Foreground="#FFB80E16" Height="22"/>
+
+                    </StackPanel>
+                    <controls:CircularProgressBar x:Name="progressBar1" Visibility="Visible" Value="0" Margin="204,25,204,40" BackgroundStroke="WhiteSmoke" Stroke="DarkGreen"/>
+                    <!--<ProgressBar Height="8" HorizontalAlignment="Stretch" x:Name="progressBar1" VerticalAlignment="Top" Width="Auto" Margin="142,2,0.499,0" Grid.Row="1" />-->
+                    <StackPanel x:Name="stackPanelProgress" Grid.Row="1" Orientation="Horizontal" Margin="204,0,138,10" HorizontalAlignment="Center" Width="167">
+                        <Label Name="lblBytesSend" Content="0" FontSize="10" Foreground="Gray" Padding="0"/>
+                        <Label Content=" Bytes of " FontSize="10" Foreground="Gray" Padding="0"/>
+                        <Label Name="lblBytesTotal" Content="0" FontSize="10" Foreground="Gray" Padding="0"/>
+                        <Label Content=" Bytes " FontSize="10" Foreground="Gray" Padding="0"/>
+                    </StackPanel>
+                </Grid>
+            </TabItem>
+            <TabItem x:Name="tabArquivos" Margin="64,0,-128,0" BorderBrush="#135995" LostFocus="tabArquivos_LostFocus">
+                <TabItem.Background>
+                    <LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+                        <GradientStop Color="#FFFCFDFF" Offset="1"/>
+                        <GradientStop Color="#FF3E88C5"/>
+                    </LinearGradientBrush>
+                </TabItem.Background>
+                <TabItem.Header>
+                    <StackPanel Orientation="Vertical">
+                        <Image Height="50" Source="Resources\Add.png" />
+                        <TextBlock Text="Arquivos" FontFamily="Segoe UI Semibold" Margin="0,-5,0,0" HorizontalAlignment="Center" Foreground="Black" />
+                    </StackPanel>
+                </TabItem.Header>
+                <Grid x:Name="grdArquivos" Loaded="grdArquivos_Loaded">
+                    <ListView x:Name="lvwArquivos" HorizontalAlignment="Left" Margin="25,76,0,25" Width="294" SelectionChanged="lvwArquivos_SelectionChanged" KeyDown="lvwArquivos_KeyDown">
+                        <ListView.View>
+                            <GridView x:Name="grvOrigem">
+                                <GridViewColumn Header="Caminho" Width="210" DisplayMemberBinding="{Binding Caminho}"/>
+                                <GridViewColumn Header="Tamanho" Width="74" DisplayMemberBinding="{Binding Tamanho}"/>
+                                <GridViewColumn Header="Nome" Width="0" DisplayMemberBinding="{Binding Nome}"/>
+                                <GridViewColumn Header="Extensao" Width="0" DisplayMemberBinding="{Binding Extensao}"/>
+                            </GridView>
+                        </ListView.View>
+                    </ListView>
+                    <GroupBox x:Name="gpbDetalhesTarefa" Header="Detalhes da Tarefa" FontFamily="Segoe UI Semibold" Foreground="#135995" Margin="324,20,0,25" HorizontalAlignment="Left" Width="175"/>
+                    <Button x:Name="btnSelecionarArquivo" Content="Arquivo" Height="47" Margin="25,24,0,0" Width="130" Background="#FF106EBE" BorderBrush="#FF106EBE" FontFamily="Segoe UI Semibold" FontSize="18" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="White" Click="btnSelecionarArquivo_Click" />
+                    <Button x:Name="btnSelecionarPasta" Content="Pasta" Height="47" Margin="189,24,0,0" Width="130" Background="#FF106EBE" BorderBrush="#FF106EBE" FontFamily="Segoe UI Semibold" FontSize="18" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="White" Click="btnSelecionarPasta_Click" />
+                    <Label x:Name="lblNome" Content="Nome" Margin="336,37,77,225" RenderTransformOrigin="0.593,-0.302"/>
+                    <Label x:Name="lblTipo" Content="Tipo" HorizontalAlignment="Left" Height="28" Margin="336,78,0,0" VerticalAlignment="Top" Width="53"/>
+                    <Label x:Name="lblHorario" Content="Horario" HorizontalAlignment="Left" Height="28" Margin="335,119,0,0" VerticalAlignment="Top" Width="53"/>
+                    <Label x:Name="lblZipar" Content="Zipar" HorizontalAlignment="Left" Height="28" Margin="337,158,0,0" VerticalAlignment="Top" Width="53"/>
+                    <Label x:Name="lblNuvem" Content="Nuvem" HorizontalAlignment="Left" Height="28" Margin="420,156,0,0" VerticalAlignment="Top" Width="53"/>
+                    <TextBox x:Name="txtNome" HorizontalAlignment="Left" Height="23" Margin="335,59,0,0" TextWrapping="Wrap" Text="NovoBackup" FontFamily="Segoe UI" FontSize="14" VerticalAlignment="Top" Width="151"/>
+                    <TextBox x:Name="txtHorario" HorizontalAlignment="Left" Height="23" Margin="334,139,0,0" TextWrapping="Wrap" Text="00:00:00" FontFamily="Segoe UI" FontSize="14" VerticalAlignment="Top" Width="151" KeyDown="txtHorario_KeyDown"/>
+                    <ComboBox x:Name="cmbTipo" HorizontalAlignment="Left" Height="23" Margin="335,100,0,0" VerticalAlignment="Top" Width="151">
+                        <ComboBoxItem Content="Diario" IsSelected="True"/>
+                    </ComboBox>
+                    <ComboBox x:Name="cmbZipar" HorizontalAlignment="Left" Height="23" Margin="335,179,0,0" VerticalAlignment="Top" Width="66">
+                        <ComboBoxItem Content="Não"/>
+                        <ComboBoxItem Content="Sim" IsSelected="True"/>
+                    </ComboBox>
+                    <ComboBox x:Name="cmbNuvem" HorizontalAlignment="Left" Height="23" Margin="419,179,0,0" VerticalAlignment="Top" Width="66">
+                        <ComboBoxItem Content="Não" IsSelected="True"/>
+                        <ComboBoxItem Content="Sim"/>
+                    </ComboBox>
+                    <CheckBox x:Name="checkBox" Content="Usar Nome da Tarefa" HorizontalAlignment="Left" Margin="337,210,0,61" Width="148"/>
+                    <CheckBox x:Name="checkBox2" Content="Ext. Própria:" HorizontalAlignment="Left" Margin="337,236,0,35" Width="148"/>
+                    <TextBox x:Name="textBox" Height="23"  TextWrapping="Wrap" FontFamily="Segoe UI" FontSize="14" Text=".bkp" Margin="430,232,24,35"/>
+                </Grid>
+            </TabItem>
+            <TabItem x:Name="tabDestinos" Margin="128,0,-192,0" BorderBrush="#135995">
+                <TabItem.Background>
+                    <LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+                        <GradientStop Color="#FFFCFDFF" Offset="1"/>
+                        <GradientStop Color="#FF3E88C5"/>
+                    </LinearGradientBrush>
+                </TabItem.Background>
+                <TabItem.Header>
+                    <StackPanel Orientation="Vertical">
+                        <Image Height="50" Source="Resources\Destinos.png" />
+                        <TextBlock Text="Destinos" FontFamily="Segoe UI Semibold" Margin="0,-5,0,0" HorizontalAlignment="Center" Foreground="Black" />
+                    </StackPanel>
+                </TabItem.Header>
+                <Grid x:Name="grdDestinos" Loaded="grdDestinos_Loaded">
+                    <ListView x:Name="lvwDestinos" Margin="35,76,35,35" KeyDown="lvwDestinos_KeyDown">
+                        <ListView.View>
+                            <GridView x:Name="grvDestino">
+                                <GridViewColumn Header="Caminho" Width="250" DisplayMemberBinding="{Binding CaminhoDiretorio}"/>
+                                <GridViewColumn Header="Unidade" Width="50" DisplayMemberBinding="{Binding Unidade}"/>
+                                <GridViewColumn Header="Disponivel" Width="129" DisplayMemberBinding="{Binding EspacoDisponivel}"/>
+                            </GridView>
+                        </ListView.View>
+                    </ListView>
+                    <Button x:Name="btnSelecionarPastaDestino" Content="Selecionar Destino" Height="47" Margin="35,24,35,0" Background="#FF106EBE" BorderBrush="#FF106EBE" FontFamily="Segoe UI Semibold" FontSize="18" VerticalAlignment="Top" Foreground="White" Click="btnSelecionarPastaDestino_Click" />
+                </Grid>
+            </TabItem>
+            <TabItem x:Name="tabConfiguracoes" Margin="192,0,-229,0" BorderBrush="#135995" LostFocus="tabConfiguracoes_LostFocus">
+                <TabItem.Background>
+                    <LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+                        <GradientStop Color="#FFFCFDFF" Offset="1"/>
+                        <GradientStop Color="#FF3E88C5"/>
+                    </LinearGradientBrush>
+                </TabItem.Background>
+                <TabItem.Header>
+                    <StackPanel Orientation="Vertical">
+                        <Image Height="50" Source="Resources\Configuracoes.png" />
+                        <TextBlock Text="Configurações" FontFamily="Segoe UI Semibold" Margin="0,-5,0,0" HorizontalAlignment="Center" Foreground="Black" />
+                    </StackPanel>
+                </TabItem.Header>
+                <Grid x:Name="grdConfiguracoes" Loaded="grdConfiguracoes_Loaded">
+                    <GroupBox x:Name="gpbCompanhia" Header="Dados da Companhia" FontFamily="Segoe UI Semibold" Foreground="#135995" Height="142" Margin="18,11,13,0" VerticalAlignment="Top"/>
+                    <Label x:Name="lblFantasia" Content="Nome / Fantasia:" HorizontalAlignment="Left" Margin="32,32,0,0" VerticalAlignment="Top"/>
+                    <Label x:Name="lblRazaoSocial" Content="Razao Social:" HorizontalAlignment="Left" Margin="32,60,0,0" VerticalAlignment="Top"/>
+                    <Label x:Name="lblCpfCnpf" Content="Cpf / Cnpj:" HorizontalAlignment="Left" Margin="32,88,0,0" VerticalAlignment="Top"/>
+                    <Label x:Name="lblTelefone" Content="Telefone:" HorizontalAlignment="Left" Margin="283,88,0,0" VerticalAlignment="Top"/>
+                    <TextBox x:Name="txtFantasia" HorizontalAlignment="Left" Height="23" Margin="130,35,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="347"/>
+                    <TextBox x:Name="txtRazaoSocial" HorizontalAlignment="Left" Height="23" Margin="130,63,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="347"/>
+                    <TextBox x:Name="txtCpfCnpj" HorizontalAlignment="Left" Height="23" Margin="130,91,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="148"/>
+                    <TextBox x:Name="txtTelefone" HorizontalAlignment="Left" Height="23" Margin="344,91,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="133"/>
+                    <GroupBox x:Name="gpbNuvem" Header="Envio para Nuvem" FontFamily="Segoe UI Semibold" Foreground="#135995" HorizontalAlignment="Left" Height="112" Margin="18,158,0,0" VerticalAlignment="Top" Width="478"/>
+                    <Label x:Name="lblServidor" Content="Servidor:" HorizontalAlignment="Left" Margin="32,179,0,0" VerticalAlignment="Top"/>
+                    <Label x:Name="lblUsuario" Content="Usuario:" HorizontalAlignment="Left" Margin="32,207,0,0" VerticalAlignment="Top"/>
+                    <Label x:Name="lblSenha" Content="Senha:" HorizontalAlignment="Left" Margin="32,235,0,0" VerticalAlignment="Top"/>
+                    <Label x:Name="lblPorta" Content="Porta:" HorizontalAlignment="Left" Margin="344,234,0,0" VerticalAlignment="Top"/>
+                    <TextBox x:Name="txtServidor" HorizontalAlignment="Left" Height="23" Margin="93,180,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="384"/>
+                    <TextBox x:Name="txtUsuario" HorizontalAlignment="Left" Height="23" Margin="93,208,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="384"/>
+                    <TextBox x:Name="txtSenha" HorizontalAlignment="Left" Height="23" Margin="93,237,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="236"/>
+                    <TextBox x:Name="txtPorta" HorizontalAlignment="Left" Height="23" Margin="390,237,0,0" TextWrapping="Wrap" Text="21" VerticalAlignment="Top" Width="87"/>
+                    <TextBox x:Name="txtEmail" HorizontalAlignment="Left" Height="23" Margin="130,120,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="347"/>
+                    <Label x:Name="lblEmail" Content="Email:" HorizontalAlignment="Left" Margin="32,116,0,0" VerticalAlignment="Top"/>
+                    <!-- <GroupBox x:Name="gpbZipar" Header="Compactação" FontFamily="Segoe UI Semibold" Foreground="#135995" HorizontalAlignment="Left" Height="140" Margin="283,130,0,0" VerticalAlignment="Top" Width="213"/>
+                    <Label x:Name="lblMetodo" Content="Método de Compressão" HorizontalAlignment="Left" Margin="303,152,0,0" VerticalAlignment="Top"/>
+                    <ComboBox x:Name="comboBox" HorizontalAlignment="Left" Margin="310,177,0,0" VerticalAlignment="Top" Width="167"/> -->
+                </Grid>
+            </TabItem>
+        </TabControl>
+        <!-- O codigo abaixo e do Hardcodet NotyfiIcon -->
+        <tb:TaskbarIcon x:Name="NotifyIconHarcodet" 
+            IconSource="Icons\Icone.ico" 
+            ToolTipText="BackupPro">
+
+            <tb:TaskbarIcon.ContextMenu>
+                <ContextMenu>
+                    <MenuItem Header="Abrir BackupPro" Click="MenuItemAbrir_Click" FontWeight="Bold"/>
+                    <MenuItem Header="Sair" Click="MenuItemSair_Click" />
+                </ContextMenu>
+            </tb:TaskbarIcon.ContextMenu>
+        </tb:TaskbarIcon>
+        <!-- Fim do codigo Hardcode -->
+    </Grid>
+</Window>

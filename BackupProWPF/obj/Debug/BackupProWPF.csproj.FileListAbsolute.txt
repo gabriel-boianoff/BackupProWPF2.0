@@ -1,0 +1,123 @@
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupProWPF\bin\Debug\BackupProWPF.exe.config
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupProWPF\bin\Debug\BackupProWPF.exe
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupProWPF\bin\Debug\BackupProWPF.pdb
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupProWPF\bin\Debug\BackupPro.DAO.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupProWPF\bin\Debug\BackupPro.Dominio.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupProWPF\bin\Debug\BackupPro.Repositorio.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupProWPF\bin\Debug\DotNetFtpLib.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupProWPF\bin\Debug\EntityFramework.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupProWPF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupProWPF\bin\Debug\Hardcodet.Wpf.TaskbarNotification.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupProWPF\bin\Debug\System.Data.SQLite.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupProWPF\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupProWPF\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupProWPF\bin\Debug\DotNetZip.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupProWPF\bin\Debug\BackupPro.DAO.pdb
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupProWPF\bin\Debug\BackupPro.Dominio.pdb
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupProWPF\bin\Debug\BackupPro.Repositorio.pdb
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupProWPF\bin\Debug\EntityFramework.xml
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupProWPF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupProWPF\bin\Debug\Hardcodet.Wpf.TaskbarNotification.pdb
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupProWPF\bin\Debug\Hardcodet.Wpf.TaskbarNotification.xml
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupProWPF\bin\Debug\System.Data.SQLite.xml
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupProWPF\bin\Debug\DotNetZip.xml
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupProWPF\obj\Debug\BackupProWPF.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupProWPF\obj\Debug\CircularProgressBar.baml
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupProWPF\obj\Debug\CircularProgressBar.g.cs
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupProWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupProWPF\obj\Debug\wnwNotificaUltimoBackup.g.cs
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupProWPF\obj\Debug\App.g.cs
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupProWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupProWPF\obj\Debug\BackupProWPF_MarkupCompile.cache
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupProWPF\obj\Debug\BackupProWPF_MarkupCompile.lref
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupProWPF\obj\Debug\MainWindow.baml
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupProWPF\obj\Debug\wnwNotificaUltimoBackup.baml
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupProWPF\obj\Debug\BackupProWPF.g.resources
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupProWPF\obj\Debug\BackupProWPF.Properties.Resources.resources
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupProWPF\obj\Debug\BackupProWPF.csproj.GenerateResource.Cache
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupProWPF\obj\Debug\BackupProWPF.exe
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupProWPF\obj\Debug\BackupProWPF.pdb
+C:\Users\gabri\Documents\Visual Studio 2019\Projects\BackupPro2.0\BackupProWPF\bin\Debug\BackupProWPF.exe.config
+C:\Users\gabri\Documents\Visual Studio 2019\Projects\BackupPro2.0\BackupProWPF\bin\Debug\BackupProWPF.exe
+C:\Users\gabri\Documents\Visual Studio 2019\Projects\BackupPro2.0\BackupProWPF\bin\Debug\BackupProWPF.pdb
+C:\Users\gabri\Documents\Visual Studio 2019\Projects\BackupPro2.0\BackupProWPF\bin\Debug\BackupPro.DAO.dll
+C:\Users\gabri\Documents\Visual Studio 2019\Projects\BackupPro2.0\BackupProWPF\bin\Debug\BackupPro.Dominio.dll
+C:\Users\gabri\Documents\Visual Studio 2019\Projects\BackupPro2.0\BackupProWPF\bin\Debug\BackupPro.Repositorio.dll
+C:\Users\gabri\Documents\Visual Studio 2019\Projects\BackupPro2.0\BackupProWPF\bin\Debug\DotNetFtpLib.dll
+C:\Users\gabri\Documents\Visual Studio 2019\Projects\BackupPro2.0\BackupProWPF\bin\Debug\EntityFramework.dll
+C:\Users\gabri\Documents\Visual Studio 2019\Projects\BackupPro2.0\BackupProWPF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gabri\Documents\Visual Studio 2019\Projects\BackupPro2.0\BackupProWPF\bin\Debug\Hardcodet.Wpf.TaskbarNotification.dll
+C:\Users\gabri\Documents\Visual Studio 2019\Projects\BackupPro2.0\BackupProWPF\bin\Debug\System.Data.SQLite.dll
+C:\Users\gabri\Documents\Visual Studio 2019\Projects\BackupPro2.0\BackupProWPF\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\gabri\Documents\Visual Studio 2019\Projects\BackupPro2.0\BackupProWPF\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\gabri\Documents\Visual Studio 2019\Projects\BackupPro2.0\BackupProWPF\bin\Debug\DotNetZip.dll
+C:\Users\gabri\Documents\Visual Studio 2019\Projects\BackupPro2.0\BackupProWPF\bin\Debug\BackupPro.DAO.pdb
+C:\Users\gabri\Documents\Visual Studio 2019\Projects\BackupPro2.0\BackupProWPF\bin\Debug\BackupPro.DAO.dll.config
+C:\Users\gabri\Documents\Visual Studio 2019\Projects\BackupPro2.0\BackupProWPF\bin\Debug\BackupPro.Dominio.pdb
+C:\Users\gabri\Documents\Visual Studio 2019\Projects\BackupPro2.0\BackupProWPF\bin\Debug\BackupPro.Repositorio.pdb
+C:\Users\gabri\Documents\Visual Studio 2019\Projects\BackupPro2.0\BackupProWPF\bin\Debug\EntityFramework.xml
+C:\Users\gabri\Documents\Visual Studio 2019\Projects\BackupPro2.0\BackupProWPF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gabri\Documents\Visual Studio 2019\Projects\BackupPro2.0\BackupProWPF\bin\Debug\Hardcodet.Wpf.TaskbarNotification.pdb
+C:\Users\gabri\Documents\Visual Studio 2019\Projects\BackupPro2.0\BackupProWPF\bin\Debug\Hardcodet.Wpf.TaskbarNotification.xml
+C:\Users\gabri\Documents\Visual Studio 2019\Projects\BackupPro2.0\BackupProWPF\bin\Debug\System.Data.SQLite.xml
+C:\Users\gabri\Documents\Visual Studio 2019\Projects\BackupPro2.0\BackupProWPF\bin\Debug\DotNetZip.xml
+C:\Users\gabri\Documents\Visual Studio 2019\Projects\BackupPro2.0\BackupProWPF\obj\Debug\BackupProWPF.csprojAssemblyReference.cache
+C:\Users\gabri\Documents\Visual Studio 2019\Projects\BackupPro2.0\BackupProWPF\obj\Debug\CircularProgressBar.baml
+C:\Users\gabri\Documents\Visual Studio 2019\Projects\BackupPro2.0\BackupProWPF\obj\Debug\CircularProgressBar.g.cs
+C:\Users\gabri\Documents\Visual Studio 2019\Projects\BackupPro2.0\BackupProWPF\obj\Debug\MainWindow.g.cs
+C:\Users\gabri\Documents\Visual Studio 2019\Projects\BackupPro2.0\BackupProWPF\obj\Debug\wnwNotificaUltimoBackup.g.cs
+C:\Users\gabri\Documents\Visual Studio 2019\Projects\BackupPro2.0\BackupProWPF\obj\Debug\App.g.cs
+C:\Users\gabri\Documents\Visual Studio 2019\Projects\BackupPro2.0\BackupProWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\gabri\Documents\Visual Studio 2019\Projects\BackupPro2.0\BackupProWPF\obj\Debug\BackupProWPF_MarkupCompile.cache
+C:\Users\gabri\Documents\Visual Studio 2019\Projects\BackupPro2.0\BackupProWPF\obj\Debug\BackupProWPF_MarkupCompile.lref
+C:\Users\gabri\Documents\Visual Studio 2019\Projects\BackupPro2.0\BackupProWPF\obj\Debug\MainWindow.baml
+C:\Users\gabri\Documents\Visual Studio 2019\Projects\BackupPro2.0\BackupProWPF\obj\Debug\wnwNotificaUltimoBackup.baml
+C:\Users\gabri\Documents\Visual Studio 2019\Projects\BackupPro2.0\BackupProWPF\obj\Debug\BackupProWPF.g.resources
+C:\Users\gabri\Documents\Visual Studio 2019\Projects\BackupPro2.0\BackupProWPF\obj\Debug\BackupProWPF.Properties.Resources.resources
+C:\Users\gabri\Documents\Visual Studio 2019\Projects\BackupPro2.0\BackupProWPF\obj\Debug\BackupProWPF.csproj.GenerateResource.cache
+C:\Users\gabri\Documents\Visual Studio 2019\Projects\BackupPro2.0\BackupProWPF\obj\Debug\BackupProWPF.csproj.CopyComplete
+C:\Users\gabri\Documents\Visual Studio 2019\Projects\BackupPro2.0\BackupProWPF\obj\Debug\BackupProWPF.exe
+C:\Users\gabri\Documents\Visual Studio 2019\Projects\BackupPro2.0\BackupProWPF\obj\Debug\BackupProWPF.pdb
+C:\Users\gabri\source\repos\BackupPro2.0\BackupProWPF\bin\Debug\BackupProWPF.exe.config
+C:\Users\gabri\source\repos\BackupPro2.0\BackupProWPF\bin\Debug\BackupProWPF.exe
+C:\Users\gabri\source\repos\BackupPro2.0\BackupProWPF\bin\Debug\BackupProWPF.pdb
+C:\Users\gabri\source\repos\BackupPro2.0\BackupProWPF\bin\Debug\BackupPro.DAO.dll
+C:\Users\gabri\source\repos\BackupPro2.0\BackupProWPF\bin\Debug\BackupPro.Dominio.dll
+C:\Users\gabri\source\repos\BackupPro2.0\BackupProWPF\bin\Debug\BackupPro.Repositorio.dll
+C:\Users\gabri\source\repos\BackupPro2.0\BackupProWPF\bin\Debug\DotNetFtpLib.dll
+C:\Users\gabri\source\repos\BackupPro2.0\BackupProWPF\bin\Debug\EntityFramework.dll
+C:\Users\gabri\source\repos\BackupPro2.0\BackupProWPF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gabri\source\repos\BackupPro2.0\BackupProWPF\bin\Debug\Hardcodet.Wpf.TaskbarNotification.dll
+C:\Users\gabri\source\repos\BackupPro2.0\BackupProWPF\bin\Debug\System.Data.SQLite.dll
+C:\Users\gabri\source\repos\BackupPro2.0\BackupProWPF\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\gabri\source\repos\BackupPro2.0\BackupProWPF\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\gabri\source\repos\BackupPro2.0\BackupProWPF\bin\Debug\DotNetZip.dll
+C:\Users\gabri\source\repos\BackupPro2.0\BackupProWPF\bin\Debug\BackupPro.DAO.pdb
+C:\Users\gabri\source\repos\BackupPro2.0\BackupProWPF\bin\Debug\BackupPro.DAO.dll.config
+C:\Users\gabri\source\repos\BackupPro2.0\BackupProWPF\bin\Debug\BackupPro.Dominio.pdb
+C:\Users\gabri\source\repos\BackupPro2.0\BackupProWPF\bin\Debug\BackupPro.Repositorio.pdb
+C:\Users\gabri\source\repos\BackupPro2.0\BackupProWPF\bin\Debug\EntityFramework.xml
+C:\Users\gabri\source\repos\BackupPro2.0\BackupProWPF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gabri\source\repos\BackupPro2.0\BackupProWPF\bin\Debug\Hardcodet.Wpf.TaskbarNotification.pdb
+C:\Users\gabri\source\repos\BackupPro2.0\BackupProWPF\bin\Debug\Hardcodet.Wpf.TaskbarNotification.xml
+C:\Users\gabri\source\repos\BackupPro2.0\BackupProWPF\bin\Debug\System.Data.SQLite.xml
+C:\Users\gabri\source\repos\BackupPro2.0\BackupProWPF\bin\Debug\DotNetZip.xml
+C:\Users\gabri\source\repos\BackupPro2.0\BackupProWPF\obj\Debug\BackupProWPF.csproj.AssemblyReference.cache
+C:\Users\gabri\source\repos\BackupPro2.0\BackupProWPF\obj\Debug\BackupProWPF.csproj.SuggestedBindingRedirects.cache
+C:\Users\gabri\source\repos\BackupPro2.0\BackupProWPF\obj\Debug\CircularProgressBar.baml
+C:\Users\gabri\source\repos\BackupPro2.0\BackupProWPF\obj\Debug\CircularProgressBar.g.cs
+C:\Users\gabri\source\repos\BackupPro2.0\BackupProWPF\obj\Debug\MainWindow.g.cs
+C:\Users\gabri\source\repos\BackupPro2.0\BackupProWPF\obj\Debug\wnwNotificaUltimoBackup.g.cs
+C:\Users\gabri\source\repos\BackupPro2.0\BackupProWPF\obj\Debug\App.g.cs
+C:\Users\gabri\source\repos\BackupPro2.0\BackupProWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\gabri\source\repos\BackupPro2.0\BackupProWPF\obj\Debug\BackupProWPF_MarkupCompile.cache
+C:\Users\gabri\source\repos\BackupPro2.0\BackupProWPF\obj\Debug\BackupProWPF_MarkupCompile.lref
+C:\Users\gabri\source\repos\BackupPro2.0\BackupProWPF\obj\Debug\MainWindow.baml
+C:\Users\gabri\source\repos\BackupPro2.0\BackupProWPF\obj\Debug\wnwNotificaUltimoBackup.baml
+C:\Users\gabri\source\repos\BackupPro2.0\BackupProWPF\obj\Debug\BackupProWPF.g.resources
+C:\Users\gabri\source\repos\BackupPro2.0\BackupProWPF\obj\Debug\BackupProWPF.Properties.Resources.resources
+C:\Users\gabri\source\repos\BackupPro2.0\BackupProWPF\obj\Debug\BackupProWPF.csproj.GenerateResource.cache
+C:\Users\gabri\source\repos\BackupPro2.0\BackupProWPF\obj\Debug\BackupProWPF.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\BackupPro2.0\BackupProWPF\obj\Debug\BackupProWPF.csproj.CopyComplete
+C:\Users\gabri\source\repos\BackupPro2.0\BackupProWPF\obj\Debug\BackupProWPF.exe
+C:\Users\gabri\source\repos\BackupPro2.0\BackupProWPF\obj\Debug\BackupProWPF.pdb

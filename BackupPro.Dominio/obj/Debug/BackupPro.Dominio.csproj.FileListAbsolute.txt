@@ -1,0 +1,16 @@
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.Dominio\bin\Debug\BackupPro.Dominio.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.Dominio\bin\Debug\BackupPro.Dominio.pdb
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.Dominio\obj\Debug\BackupPro.Dominio.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.Dominio\obj\Debug\BackupPro.Dominio.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.Dominio\obj\Debug\BackupPro.Dominio.pdb
+C:\Users\gabri\Documents\Visual Studio 2019\Projects\BackupPro2.0\BackupPro.Dominio\bin\Debug\BackupPro.Dominio.dll
+C:\Users\gabri\Documents\Visual Studio 2019\Projects\BackupPro2.0\BackupPro.Dominio\bin\Debug\BackupPro.Dominio.pdb
+C:\Users\gabri\Documents\Visual Studio 2019\Projects\BackupPro2.0\BackupPro.Dominio\obj\Debug\BackupPro.Dominio.csprojAssemblyReference.cache
+C:\Users\gabri\Documents\Visual Studio 2019\Projects\BackupPro2.0\BackupPro.Dominio\obj\Debug\BackupPro.Dominio.dll
+C:\Users\gabri\Documents\Visual Studio 2019\Projects\BackupPro2.0\BackupPro.Dominio\obj\Debug\BackupPro.Dominio.pdb
+C:\Users\gabri\source\repos\BackupPro2.0\BackupPro.Dominio\bin\Debug\BackupPro.Dominio.dll
+C:\Users\gabri\source\repos\BackupPro2.0\BackupPro.Dominio\bin\Debug\BackupPro.Dominio.pdb
+C:\Users\gabri\source\repos\BackupPro2.0\BackupPro.Dominio\obj\Debug\BackupPro.Dominio.csproj.AssemblyReference.cache
+C:\Users\gabri\source\repos\BackupPro2.0\BackupPro.Dominio\obj\Debug\BackupPro.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\BackupPro2.0\BackupPro.Dominio\obj\Debug\BackupPro.Dominio.dll
+C:\Users\gabri\source\repos\BackupPro2.0\BackupPro.Dominio\obj\Debug\BackupPro.Dominio.pdb

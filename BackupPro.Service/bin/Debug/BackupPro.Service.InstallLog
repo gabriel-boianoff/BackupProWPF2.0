@@ -1,0 +1,234 @@
+﻿Instalando o assembly 'C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.Service\bin\Debug\BackupPro.Service.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.Service\bin\Debug\BackupPro.Service.InstallLog
+   assemblypath = C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.Service\bin\Debug\BackupPro.Service.exe
+Instalando o serviço BaclupPro...
+Serviço BaclupPro foi instalado com êxito.
+Criando a origem de EventLog BaclupPro no log Application...
+Confirmando o assembly 'C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.Service\bin\Debug\BackupPro.Service.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.Service\bin\Debug\BackupPro.Service.InstallLog
+   assemblypath = C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.Service\bin\Debug\BackupPro.Service.exe
+Instalando o assembly 'C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.Service\bin\Debug\BackupPro.Service.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.Service\bin\Debug\BackupPro.Service.InstallLog
+   assemblypath = C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.Service\bin\Debug\BackupPro.Service.exe
+   un = 
+Instalando o serviço BaclupPro...
+Criando a origem de EventLog BaclupPro no log Application...
+Revertendo o assembly 'C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.Service\bin\Debug\BackupPro.Service.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.Service\bin\Debug\BackupPro.Service.InstallLog
+   assemblypath = C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.Service\bin\Debug\BackupPro.Service.exe
+   un = 
+Restaurando o log de eventos para o estado anterior da origem BaclupPro.
+Instalando o assembly 'C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.Service\bin\Debug\BackupPro.Service.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.Service\bin\Debug\BackupPro.Service.InstallLog
+   assemblypath = C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.Service\bin\Debug\BackupPro.Service.exe
+   un = 
+Instalando o serviço BaclupPro...
+Criando a origem de EventLog BaclupPro no log Application...
+Revertendo o assembly 'C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.Service\bin\Debug\BackupPro.Service.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.Service\bin\Debug\BackupPro.Service.InstallLog
+   assemblypath = C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.Service\bin\Debug\BackupPro.Service.exe
+   un = 
+Restaurando o log de eventos para o estado anterior da origem BaclupPro.
+Desinstalando o assembly 'C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.Service\bin\Debug\BackupPro.Service.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.Service\bin\Debug\BackupPro.Service.InstallLog
+   assemblypath = C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.Service\bin\Debug\BackupPro.Service.exe
+Removendo a origem do EventLog BaclupPro.
+Ocorreu uma exceção durante a desinstalação do instalador System.Diagnostics.EventLogInstaller.
+System.Security.SecurityException: Acesso ao Registro solicitado não é permitido.
+Ocorreu uma exceção ao desinstalar. Essa exceção será ignorada e a desinstalação continuará. Mas talvez o aplicativo não seja totalmente desinstalado após a conclusão da desinstalação.
+Desinstalando o assembly 'C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.Service\bin\Debug\BackupPro.Service.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.Service\bin\Debug\BackupPro.Service.InstallLog
+   assemblypath = C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.Service\bin\Debug\BackupPro.Service.exe
+Removendo a origem do EventLog BaclupPro.
+Serviço BaclupPro está sendo removido do sistema...
+Serviço BaclupPro foi removido com êxito do sistema.
+Instalando o assembly 'C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.Service\bin\Debug\BackupPro.Service.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.Service\bin\Debug\BackupPro.Service.InstallLog
+   assemblypath = C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.Service\bin\Debug\BackupPro.Service.exe
+Instalando o serviço BackupPro...
+Serviço BackupPro foi instalado com êxito.
+Criando a origem de EventLog BackupPro no log Application...
+Confirmando o assembly 'C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.Service\bin\Debug\BackupPro.Service.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.Service\bin\Debug\BackupPro.Service.InstallLog
+   assemblypath = C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.Service\bin\Debug\BackupPro.Service.exe
+Desinstalando o assembly 'C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.Service\bin\Debug\BackupPro.Service.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.Service\bin\Debug\BackupPro.Service.InstallLog
+   assemblypath = C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.Service\bin\Debug\BackupPro.Service.exe
+Removendo a origem do EventLog BackupPro.
+Serviço BackupPro está sendo removido do sistema...
+Serviço BackupPro foi removido com êxito do sistema.
+Instalando o assembly 'C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.Service\bin\Debug\BackupPro.Service.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.Service\bin\Debug\BackupPro.Service.InstallLog
+   assemblypath = C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.Service\bin\Debug\BackupPro.Service.exe
+Instalando o serviço BackupPro...
+Criando a origem de EventLog BackupPro no log Application...
+Revertendo o assembly 'C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.Service\bin\Debug\BackupPro.Service.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.Service\bin\Debug\BackupPro.Service.InstallLog
+   assemblypath = C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.Service\bin\Debug\BackupPro.Service.exe
+Restaurando o log de eventos para o estado anterior da origem BackupPro.
+Ocorreu uma exceção durante a fase de reversão do instalador System.Diagnostics.EventLogInstaller.
+System.Security.SecurityException: Fonte não encontrada, mas alguns ou todos os logs de evento não puderam ser pesquisados. Logs inacessíveis: Security.
+Ocorreu uma exceção durante a fase de reversão da instalação. Essa exceção será ignorada e a reversão continuará. Mas talvez o computador não reverta totalmente para o estado inicial após a conclusão da reversão.
+Instalando o assembly 'C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.Service\bin\Debug\BackupPro.Service.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.Service\bin\Debug\BackupPro.Service.InstallLog
+   assemblypath = C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.Service\bin\Debug\BackupPro.Service.exe
+Instalando o serviço BackupPro...
+Serviço BackupPro foi instalado com êxito.
+Criando a origem de EventLog BackupPro no log Application...
+Confirmando o assembly 'C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.Service\bin\Debug\BackupPro.Service.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.Service\bin\Debug\BackupPro.Service.InstallLog
+   assemblypath = C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.Service\bin\Debug\BackupPro.Service.exe
+Desinstalando o assembly 'C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.Service\bin\Debug\BackupPro.Service.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.Service\bin\Debug\BackupPro.Service.InstallLog
+   assemblypath = C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.Service\bin\Debug\BackupPro.Service.exe
+Removendo a origem do EventLog BackupPro.
+Serviço BackupPro está sendo removido do sistema...
+Serviço BackupPro foi removido com êxito do sistema.
+Instalando o assembly 'C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.Service\bin\Debug\BackupPro.Service.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.Service\bin\Debug\BackupPro.Service.InstallLog
+   assemblypath = C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.Service\bin\Debug\BackupPro.Service.exe
+Instalando o serviço BackupPro...
+Serviço BackupPro foi instalado com êxito.
+Criando a origem de EventLog BackupPro no log Application...
+Confirmando o assembly 'C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.Service\bin\Debug\BackupPro.Service.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.Service\bin\Debug\BackupPro.Service.InstallLog
+   assemblypath = C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.Service\bin\Debug\BackupPro.Service.exe
+Desinstalando o assembly 'C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.Service\bin\Debug\BackupPro.Service.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.Service\bin\Debug\BackupPro.Service.InstallLog
+   assemblypath = C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.Service\bin\Debug\BackupPro.Service.exe
+Removendo a origem do EventLog BackupPro.
+Serviço BackupPro está sendo removido do sistema...
+Serviço BackupPro foi removido com êxito do sistema.
+Instalando o assembly 'C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.Service\bin\Debug\BackupPro.Service.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.Service\bin\Debug\BackupPro.Service.InstallLog
+   assemblypath = C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.Service\bin\Debug\BackupPro.Service.exe
+Instalando o serviço BackupPro...
+Serviço BackupPro foi instalado com êxito.
+Criando a origem de EventLog BackupPro no log Application...
+Confirmando o assembly 'C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.Service\bin\Debug\BackupPro.Service.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.Service\bin\Debug\BackupPro.Service.InstallLog
+   assemblypath = C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.Service\bin\Debug\BackupPro.Service.exe
+Desinstalando o assembly 'C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.Service\bin\Debug\BackupPro.Service.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.Service\bin\Debug\BackupPro.Service.InstallLog
+   assemblypath = C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.Service\bin\Debug\BackupPro.Service.exe
+Removendo a origem do EventLog BackupPro.
+Serviço BackupPro está sendo removido do sistema...
+Serviço BackupPro foi removido com êxito do sistema.
+Desinstalando o assembly 'C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.Service\bin\Debug\BackupPro.Service.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.Service\bin\Debug\BackupPro.Service.InstallLog
+   assemblypath = C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.Service\bin\Debug\BackupPro.Service.exe
+Removendo a origem do EventLog BackupPro.
+Aviso: a origem BackupPro não está registrada no computador local.
+Serviço BackupPro está sendo removido do sistema...
+Ocorreu uma exceção durante a desinstalação do instalador System.ServiceProcess.ServiceInstaller.
+System.ComponentModel.Win32Exception: O serviço especificado não existe como serviço instalado
+Ocorreu uma exceção ao desinstalar. Essa exceção será ignorada e a desinstalação continuará. Mas talvez o aplicativo não seja totalmente desinstalado após a conclusão da desinstalação.
+Instalando o assembly 'C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.Service\bin\Debug\BackupPro.Service.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.Service\bin\Debug\BackupPro.Service.InstallLog
+   assemblypath = C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.Service\bin\Debug\BackupPro.Service.exe
+Instalando o serviço BackupPro...
+Serviço BackupPro foi instalado com êxito.
+Criando a origem de EventLog BackupPro no log Application...
+Confirmando o assembly 'C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.Service\bin\Debug\BackupPro.Service.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.Service\bin\Debug\BackupPro.Service.InstallLog
+   assemblypath = C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.Service\bin\Debug\BackupPro.Service.exe
+Desinstalando o assembly 'C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.Service\bin\Debug\BackupPro.Service.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.Service\bin\Debug\BackupPro.Service.InstallLog
+   assemblypath = C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.Service\bin\Debug\BackupPro.Service.exe
+Removendo a origem do EventLog BackupPro.
+Serviço BackupPro está sendo removido do sistema...
+Serviço BackupPro foi removido com êxito do sistema.
+Instalando o assembly 'C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.Service\bin\Debug\BackupPro.Service.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.Service\bin\Debug\BackupPro.Service.InstallLog
+   assemblypath = C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.Service\bin\Debug\BackupPro.Service.exe
+Instalando o serviço BackupPro...
+Serviço BackupPro foi instalado com êxito.
+Criando a origem de EventLog BackupPro no log Application...
+Confirmando o assembly 'C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.Service\bin\Debug\BackupPro.Service.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.Service\bin\Debug\BackupPro.Service.InstallLog
+   assemblypath = C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.Service\bin\Debug\BackupPro.Service.exe
+Desinstalando o assembly 'C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.Service\bin\Debug\BackupPro.Service.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.Service\bin\Debug\BackupPro.Service.InstallLog
+   assemblypath = C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.Service\bin\Debug\BackupPro.Service.exe
+Removendo a origem do EventLog BackupPro.
+Serviço BackupPro está sendo removido do sistema...
+Serviço BackupPro foi removido com êxito do sistema.
+Instalando o assembly 'C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.Service\bin\Debug\BackupPro.Service.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.Service\bin\Debug\BackupPro.Service.InstallLog
+   assemblypath = C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.Service\bin\Debug\BackupPro.Service.exe
+Instalando o serviço BackupPro...
+Serviço BackupPro foi instalado com êxito.
+Criando a origem de EventLog BackupPro no log Application...
+Confirmando o assembly 'C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.Service\bin\Debug\BackupPro.Service.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.Service\bin\Debug\BackupPro.Service.InstallLog
+   assemblypath = C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.Service\bin\Debug\BackupPro.Service.exe
+Desinstalando o assembly 'C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.Service\bin\Debug\BackupPro.Service.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.Service\bin\Debug\BackupPro.Service.InstallLog
+   assemblypath = C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.Service\bin\Debug\BackupPro.Service.exe
+Removendo a origem do EventLog BackupPro.
+Serviço BackupPro está sendo removido do sistema...
+Serviço BackupPro foi removido com êxito do sistema.

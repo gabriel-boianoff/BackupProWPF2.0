@@ -1,0 +1,51 @@
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.DAO\bin\Debug\BackupPro.DAO.dll.config
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.DAO\bin\Debug\BackupPro.DAO.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.DAO\bin\Debug\BackupPro.DAO.pdb
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.DAO\bin\Debug\BackupPro.Dominio.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.DAO\bin\Debug\EntityFramework.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.DAO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.DAO\bin\Debug\System.Data.SQLite.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.DAO\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.DAO\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.DAO\bin\Debug\BackupPro.Dominio.pdb
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.DAO\bin\Debug\EntityFramework.xml
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.DAO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.DAO\bin\Debug\System.Data.SQLite.xml
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.DAO\obj\Debug\BackupPro.DAO.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.DAO\obj\Debug\BackupPro.DAO.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\BackupPro2.0\BackupPro.DAO\obj\Debug\BackupPro.DAO.pdb
+C:\Users\gabri\Documents\Visual Studio 2019\Projects\BackupPro2.0\BackupPro.DAO\bin\Debug\BackupPro.DAO.dll.config
+C:\Users\gabri\Documents\Visual Studio 2019\Projects\BackupPro2.0\BackupPro.DAO\bin\Debug\BackupPro.DAO.dll
+C:\Users\gabri\Documents\Visual Studio 2019\Projects\BackupPro2.0\BackupPro.DAO\bin\Debug\BackupPro.DAO.pdb
+C:\Users\gabri\Documents\Visual Studio 2019\Projects\BackupPro2.0\BackupPro.DAO\bin\Debug\BackupPro.Dominio.dll
+C:\Users\gabri\Documents\Visual Studio 2019\Projects\BackupPro2.0\BackupPro.DAO\bin\Debug\EntityFramework.dll
+C:\Users\gabri\Documents\Visual Studio 2019\Projects\BackupPro2.0\BackupPro.DAO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gabri\Documents\Visual Studio 2019\Projects\BackupPro2.0\BackupPro.DAO\bin\Debug\System.Data.SQLite.dll
+C:\Users\gabri\Documents\Visual Studio 2019\Projects\BackupPro2.0\BackupPro.DAO\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\gabri\Documents\Visual Studio 2019\Projects\BackupPro2.0\BackupPro.DAO\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\gabri\Documents\Visual Studio 2019\Projects\BackupPro2.0\BackupPro.DAO\bin\Debug\BackupPro.Dominio.pdb
+C:\Users\gabri\Documents\Visual Studio 2019\Projects\BackupPro2.0\BackupPro.DAO\bin\Debug\EntityFramework.xml
+C:\Users\gabri\Documents\Visual Studio 2019\Projects\BackupPro2.0\BackupPro.DAO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gabri\Documents\Visual Studio 2019\Projects\BackupPro2.0\BackupPro.DAO\bin\Debug\System.Data.SQLite.xml
+C:\Users\gabri\Documents\Visual Studio 2019\Projects\BackupPro2.0\BackupPro.DAO\obj\Debug\BackupPro.DAO.csprojAssemblyReference.cache
+C:\Users\gabri\Documents\Visual Studio 2019\Projects\BackupPro2.0\BackupPro.DAO\obj\Debug\BackupPro.DAO.csproj.CopyComplete
+C:\Users\gabri\Documents\Visual Studio 2019\Projects\BackupPro2.0\BackupPro.DAO\obj\Debug\BackupPro.DAO.dll
+C:\Users\gabri\Documents\Visual Studio 2019\Projects\BackupPro2.0\BackupPro.DAO\obj\Debug\BackupPro.DAO.pdb
+C:\Users\gabri\source\repos\BackupPro2.0\BackupPro.DAO\bin\Debug\BackupPro.DAO.dll.config
+C:\Users\gabri\source\repos\BackupPro2.0\BackupPro.DAO\bin\Debug\BackupPro.DAO.dll
+C:\Users\gabri\source\repos\BackupPro2.0\BackupPro.DAO\bin\Debug\BackupPro.DAO.pdb
+C:\Users\gabri\source\repos\BackupPro2.0\BackupPro.DAO\bin\Debug\BackupPro.Dominio.dll
+C:\Users\gabri\source\repos\BackupPro2.0\BackupPro.DAO\bin\Debug\EntityFramework.dll
+C:\Users\gabri\source\repos\BackupPro2.0\BackupPro.DAO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gabri\source\repos\BackupPro2.0\BackupPro.DAO\bin\Debug\System.Data.SQLite.dll
+C:\Users\gabri\source\repos\BackupPro2.0\BackupPro.DAO\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\gabri\source\repos\BackupPro2.0\BackupPro.DAO\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\gabri\source\repos\BackupPro2.0\BackupPro.DAO\bin\Debug\BackupPro.Dominio.pdb
+C:\Users\gabri\source\repos\BackupPro2.0\BackupPro.DAO\bin\Debug\EntityFramework.xml
+C:\Users\gabri\source\repos\BackupPro2.0\BackupPro.DAO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gabri\source\repos\BackupPro2.0\BackupPro.DAO\bin\Debug\System.Data.SQLite.xml
+C:\Users\gabri\source\repos\BackupPro2.0\BackupPro.DAO\obj\Debug\BackupPro.DAO.csproj.AssemblyReference.cache
+C:\Users\gabri\source\repos\BackupPro2.0\BackupPro.DAO\obj\Debug\BackupPro.DAO.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\BackupPro2.0\BackupPro.DAO\obj\Debug\BackupPro.DAO.csproj.CopyComplete
+C:\Users\gabri\source\repos\BackupPro2.0\BackupPro.DAO\obj\Debug\BackupPro.DAO.dll
+C:\Users\gabri\source\repos\BackupPro2.0\BackupPro.DAO\obj\Debug\BackupPro.DAO.pdb
